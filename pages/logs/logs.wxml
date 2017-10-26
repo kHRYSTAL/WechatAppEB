@@ -1,0 +1,5 @@
+<!--logs.wxml-->
+<view class="container">
+  <input bindinput="getInput" placeholder='set value'></input>
+  <button bindtap='postClick'>发送</button>
+</view>
